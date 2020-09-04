@@ -8,7 +8,7 @@ Netmiko can be installed using the instructions in the given link.
 
 After Netmiko installation Netmiko hp classes need to be added and midified asper the instructions given in Netmiko_classes directory (https://github.com/dharshanalh/NetmikoSwitchBackup/tree/master/Netmiko_classes)
 
-Now you can make use of the given scripts to connect to following switch models
+Now you can make use of the given scripts to connect and backup following switch models
 
 aruba-sw-backup.py script supports
 
