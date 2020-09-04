@@ -1,5 +1,5 @@
 # NetmikoSwitchBackup
-Netmiko Based Authomated Switch Backup Scripts
+Netmiko Based Authomated HPE and Aruba Switch Backup Scripts
 
 The given scripts can be used in a Linux OS having Netmiko installed,
 
