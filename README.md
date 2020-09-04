@@ -6,7 +6,7 @@ The given scripts can be used in a Linux OS having Netmiko installed,
 Netmiko can be installed using the instructions in the given link.
 (https://ktbyers.github.io/netmiko/#installation)
 
-After Netmiko installation Netmiko hp classes need to added and midified asper the instructions given in Netmiko_classes directory (https://github.com/dharshanalh/NetmikoSwitchBackup/tree/master/Netmiko_classes)
+After Netmiko installation Netmiko hp classes need to be added and midified asper the instructions given in Netmiko_classes directory (https://github.com/dharshanalh/NetmikoSwitchBackup/tree/master/Netmiko_classes)
 
 Now you can make use of the given scripts to connect to following switch models
 
