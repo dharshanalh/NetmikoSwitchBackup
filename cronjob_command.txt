@@ -1,4 +1,4 @@
-# runs on every 1st day of every month at 10:00 AM
+# runs on 1st day of every month at 10:00 AM
 0 10 1 * * /usr/bin/python3 /ABSOLUTE/PATH/OF/SCRIPT/hpe-sw-backup.py >> /var/log/cron.log 2>&1
 0 10 1 * * /usr/bin/python3 /ABSOLUTE/PATH/OF/SCRIPT/aruba-sw-backup.py >> /var/log/cron.log 2>&1
 0 10 1 * * /usr/bin/python3 /ABSOLUTE/PATH/OF/SCRIPT/aruba-wlan-controller-backup.py >> /var/log/cron.log 2>&1
